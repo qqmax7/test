@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-20T20:56:30.088Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="0SbSKBPDLjXVM_3gZm9q" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-20T20:57:32.245Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="iu1mEnK2W36o4vA1dQPc" version="21.1.5" type="github">
   <diagram name="Страница 1" id="jhRbLKA4-imZrKw_z_AS">
-    <mxGraphModel dx="2032" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2681" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -608,13 +608,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TuORr6WVLsLbP89PUuP_-234" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1930" width="10" height="450" as="geometry" />
+          <mxGeometry x="320" y="1930" width="10" height="500" as="geometry" />
         </mxCell>
         <mxCell id="TuORr6WVLsLbP89PUuP_-235" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="1930" width="10" height="220" as="geometry" />
         </mxCell>
         <mxCell id="TuORr6WVLsLbP89PUuP_-236" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1930" width="10" height="450" as="geometry" />
+          <mxGeometry x="120" y="1930" width="10" height="500" as="geometry" />
         </mxCell>
         <mxCell id="TuORr6WVLsLbP89PUuP_-237" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -725,10 +725,10 @@
           <mxGeometry x="80" y="2260" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TuORr6WVLsLbP89PUuP_-264" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=20;hachureAngle=45;fillColor=#990000;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="2330" width="30" height="20" as="geometry" />
+          <mxGeometry x="80" y="2400" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TuORr6WVLsLbP89PUuP_-265" value="Изъятие инцидента из очереди" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="2290" width="200" height="30" as="geometry" />
+          <mxGeometry x="-110" y="2350" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TuORr6WVLsLbP89PUuP_-266" value="" style="endArrow=open;startArrow=cross;endFill=0;startFill=0;endSize=8;startSize=10;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -749,7 +749,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TuORr6WVLsLbP89PUuP_-269" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="1930" width="10" height="450" as="geometry" />
+          <mxGeometry x="750" y="1930" width="10" height="500" as="geometry" />
         </mxCell>
         <mxCell id="TuORr6WVLsLbP89PUuP_-270" value="CRM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="730" y="1890" width="50" height="30" as="geometry" />
@@ -825,6 +825,9 @@
             <mxPoint x="540" y="2230" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TuORr6WVLsLbP89PUuP_-289" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#006600;sketch=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2330" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
