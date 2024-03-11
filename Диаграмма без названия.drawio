@@ -1,36 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-01-29T12:51:32.094Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="DnWc3RT2P1cUkKFtPVL0" version="23.0.2" type="github">
-  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1004" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+<mxfile host="app.diagrams.net" modified="2024-03-11T14:46:08.132Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" version="23.1.2" etag="QY6I5ju5TiSaRjcJ1Jno" type="github">
+  <diagram name="Страница — 1" id="KRMpJ-E6ySO9Nyk_nFT0">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3JmaRuAsPaGDBgdzfjNF-1" value="SQL-запрос" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=14.444444444444445;endSize=4.776666666666666;width=12.666666666666666;" edge="1" parent="1">
-          <mxGeometry x="0.0714" y="-5" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="184.57999999999998" as="sourcePoint" />
-            <mxPoint x="280" y="184.57999999999998" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3JmaRuAsPaGDBgdzfjNF-3" value="SQM" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.enterprise.database_server" vertex="1" parent="1">
-          <mxGeometry x="220" y="140" width="50" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="3JmaRuAsPaGDBgdzfjNF-6" value="ЦХД" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.primary_site" vertex="1" parent="1">
-          <mxGeometry x="570" y="140" width="50" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="3JmaRuAsPaGDBgdzfjNF-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=14.444444444444445;endSize=4.776666666666666;width=12.666666666666666;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="210" as="sourcePoint" />
-            <mxPoint x="560" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3JmaRuAsPaGDBgdzfjNF-12" value="Данные таблиц" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="3JmaRuAsPaGDBgdzfjNF-7">
-          <mxGeometry x="-0.1278" y="4" relative="1" as="geometry">
-            <mxPoint x="13" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3JmaRuAsPaGDBgdzfjNF-11" value="&#xa;&lt;div align=&quot;center&quot;&gt;JDBC connection&lt;/div&gt;&#xa;&#xa;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="350" y="150" width="130" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
