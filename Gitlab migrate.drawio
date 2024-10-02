@@ -8,7 +8,7 @@
           <mxGeometry x="1200" y="420" width="240" height="310" as="geometry" />
         </mxCell>
         <mxCell id="YvvDAPuNRDymJeXlG5OG-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1254.65" y="512.1" width="165.35" height="147.9" as="geometry" />
+          <mxGeometry x="1254.65" y="470" width="165.35" height="190" as="geometry" />
         </mxCell>
         <mxCell id="f6b6LERBozWG5YTFMAp3-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="40" width="260" height="240" as="geometry" />
@@ -324,6 +324,9 @@
         </mxCell>
         <mxCell id="YvvDAPuNRDymJeXlG5OG-31" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=none;strokeColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="914.65" y="548.1" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YvvDAPuNRDymJeXlG5OG-32" value="Репозитории провайдера" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1300.42" y="479.11" width="73.82" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
