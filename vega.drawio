@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.8.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.3">
   <diagram name="Страница — 1" id="CqbkalOceDS1Ib8Ocr17">
     <mxGraphModel dx="1205" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,20 +70,20 @@
         <mxCell id="yEPGhI6gahbzNLUMz_Bi-12" value="&lt;div&gt;topic&amp;nbsp;&lt;/div&gt;&lt;div&gt;&quot;sova-inventory-links&quot;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="580" y="420" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wJ8KrlMlpTtMy6ue6bhl-1" value="&lt;div&gt;CRM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=top;" parent="1" vertex="1">
+        <mxCell id="wJ8KrlMlpTtMy6ue6bhl-1" value="&lt;div&gt;КонСлой&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=top;" parent="1" vertex="1">
           <mxGeometry x="550" y="640" width="230" height="190" as="geometry" />
         </mxCell>
         <mxCell id="wJ8KrlMlpTtMy6ue6bhl-4" value="&lt;div&gt;SQM&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;arcSize=11;" parent="1" vertex="1">
           <mxGeometry x="140" y="640" width="310" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="wJ8KrlMlpTtMy6ue6bhl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wJ8KrlMlpTtMy6ue6bhl-1" target="wJ8KrlMlpTtMy6ue6bhl-8" edge="1">
+        <mxCell id="wJ8KrlMlpTtMy6ue6bhl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="0c0U7OgSNv3xbRfHRChP-2" target="wJ8KrlMlpTtMy6ue6bhl-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="500" y="620" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wJ8KrlMlpTtMy6ue6bhl-6" value="TCP:9092" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;shadow=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="wJ8KrlMlpTtMy6ue6bhl-5" vertex="1" connectable="0">
+        <mxCell id="wJ8KrlMlpTtMy6ue6bhl-6" value="JDBC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;shadow=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="wJ8KrlMlpTtMy6ue6bhl-5" vertex="1" connectable="0">
           <mxGeometry x="-0.0788" y="-2" relative="1" as="geometry">
-            <mxPoint x="20" y="-2" as="offset" />
+            <mxPoint x="-12" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wJ8KrlMlpTtMy6ue6bhl-8" value="Kafka&lt;br&gt;topic: &quot;Задания&quot;" style="rounded=0;whiteSpace=wrap;html=1;align=center;shadow=0;imageVerticalAlign=top;imageAspect=0;imageAlign=center;overflow=visible;" parent="1" vertex="1">
@@ -97,6 +97,12 @@
         </mxCell>
         <mxCell id="-GR8mmAhyP1Z9ofL-1Rl-4" value="&lt;div&gt;topic&amp;nbsp;&lt;/div&gt;&lt;div&gt;&quot;sova-inventory-links-extended&quot;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="580" y="470" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0c0U7OgSNv3xbRfHRChP-1" value="БД ClickHouse" style="rounded=0;whiteSpace=wrap;html=1;align=center;shadow=0;imageVerticalAlign=top;imageAspect=0;imageAlign=center;overflow=visible;" vertex="1" parent="1">
+          <mxGeometry x="215" y="705" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0c0U7OgSNv3xbRfHRChP-2" value="&lt;div&gt;Витрина&lt;/div&gt;&lt;div&gt;&quot;Новые инсталляции&quot;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="705" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
