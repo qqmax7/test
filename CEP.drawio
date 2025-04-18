@@ -1,13 +1,19 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.13">
   <diagram name="Страница — 1" id="CNGbqbiZIYPsTiG5xjIv">
-    <mxGraphModel dx="1518" dy="1782" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="856" dy="1511" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="43ak4_L_ta3FqxEy_fTI-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v_URH__aFRRFZnjGPoym-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="974" y="1847" width="225" height="153" as="geometry" />
+        </mxCell>
+        <mxCell id="v_URH__aFRRFZnjGPoym-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="985" y="1856" width="206" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="43ak4_L_ta3FqxEy_fTI-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1570" y="1280" width="360" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="43ak4_L_ta3FqxEy_fTI-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="43ak4_L_ta3FqxEy_fTI-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1170" y="1280" width="400" height="320" as="geometry" />
         </mxCell>
         <mxCell id="M0X-V-5y8funfRK-0tcY-36" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="1" vertex="1">
@@ -177,52 +183,122 @@
         <mxCell id="M0X-V-5y8funfRK-0tcY-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.272;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="M0X-V-5y8funfRK-0tcY-5" target="M0X-V-5y8funfRK-0tcY-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="43ak4_L_ta3FqxEy_fTI-1" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+        <mxCell id="43ak4_L_ta3FqxEy_fTI-1" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="1" vertex="1">
           <mxGeometry x="1195" y="1010" width="185" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="43ak4_L_ta3FqxEy_fTI-5" value="CEP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="43ak4_L_ta3FqxEy_fTI-5" value="CEP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1260" y="1055" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="43ak4_L_ta3FqxEy_fTI-6" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+        <mxCell id="43ak4_L_ta3FqxEy_fTI-6" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="1" vertex="1">
           <mxGeometry x="1185" y="1335" width="295" height="225" as="geometry" />
         </mxCell>
-        <mxCell id="43ak4_L_ta3FqxEy_fTI-7" value="SQM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="43ak4_L_ta3FqxEy_fTI-7" value="SQM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1211" y="1360" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="43ak4_L_ta3FqxEy_fTI-2" value="&lt;div&gt;KAFKA SQM&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="43ak4_L_ta3FqxEy_fTI-2" value="&lt;div&gt;KAFKA SQM&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1290" y="1362.5" width="180" height="187.5" as="geometry">
             <mxRectangle x="130" y="150" width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="43ak4_L_ta3FqxEy_fTI-3" value="topic: wink-out" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="43ak4_L_ta3FqxEy_fTI-2">
+        <mxCell id="43ak4_L_ta3FqxEy_fTI-3" value="topic: wink-out" style="rounded=0;whiteSpace=wrap;html=1;" parent="43ak4_L_ta3FqxEy_fTI-2" vertex="1">
           <mxGeometry x="30" y="37.5" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="43ak4_L_ta3FqxEy_fTI-4" value="topic: r-pick-out" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="43ak4_L_ta3FqxEy_fTI-2">
+        <mxCell id="43ak4_L_ta3FqxEy_fTI-4" value="topic: r-pick-out" style="rounded=0;whiteSpace=wrap;html=1;" parent="43ak4_L_ta3FqxEy_fTI-2" vertex="1">
           <mxGeometry x="30" y="67.5" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="43ak4_L_ta3FqxEy_fTI-15" value="topic: r-pick-hosts-out" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="43ak4_L_ta3FqxEy_fTI-15" value="topic: r-pick-hosts-out" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1320" y="1460" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="43ak4_L_ta3FqxEy_fTI-16" value="topic: radacct-output" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="43ak4_L_ta3FqxEy_fTI-16" value="topic: radacct-output" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1320" y="1490" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="43ak4_L_ta3FqxEy_fTI-17" value="topic: metrics-sova-output" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="43ak4_L_ta3FqxEy_fTI-17" value="topic: metrics-sova-output" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1320" y="1520" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="43ak4_L_ta3FqxEy_fTI-18" value="&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size:12.0pt;line-height:115%;&lt;br/&gt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-ansi-language:RU;mso-fareast-language:RU;mso-bidi-language:AR-SA&quot;&gt;Центр &lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;line-height:115%;&lt;br/&gt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-ansi-language:RU;mso-fareast-language:RU;mso-bidi-language:AR-SA&quot;&gt;мониторинга сети&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size:12.0pt;line-height:115%;&lt;br/&gt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-ansi-language:RU;mso-fareast-language:RU;mso-bidi-language:AR-SA&quot;&gt;ПАО Ростелеком&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+        <mxCell id="43ak4_L_ta3FqxEy_fTI-18" value="&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size:12.0pt;line-height:115%;&lt;br/&gt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-ansi-language:RU;mso-fareast-language:RU;mso-bidi-language:AR-SA&quot;&gt;Центр &lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;line-height:115%;&lt;br/&gt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-ansi-language:RU;mso-fareast-language:RU;mso-bidi-language:AR-SA&quot;&gt;мониторинга сети&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size:12.0pt;line-height:115%;&lt;br/&gt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-ansi-language:RU;mso-fareast-language:RU;mso-bidi-language:AR-SA&quot;&gt;ПАО Ростелеком&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="1" vertex="1">
           <mxGeometry x="1654" y="1382.5" width="230" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="43ak4_L_ta3FqxEy_fTI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="43ak4_L_ta3FqxEy_fTI-18" target="43ak4_L_ta3FqxEy_fTI-6">
+        <mxCell id="43ak4_L_ta3FqxEy_fTI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="43ak4_L_ta3FqxEy_fTI-18" target="43ak4_L_ta3FqxEy_fTI-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="43ak4_L_ta3FqxEy_fTI-23" value="НОП" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="43ak4_L_ta3FqxEy_fTI-23" value="НОП" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1340" y="1290" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="43ak4_L_ta3FqxEy_fTI-24" value="КСПД РТК" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="43ak4_L_ta3FqxEy_fTI-24" value="КСПД РТК" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1720" y="1290" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="43ak4_L_ta3FqxEy_fTI-30" value="UserGate" style="shape=mxgraph.cisco.security.ios_firewall;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="43ak4_L_ta3FqxEy_fTI-30" value="UserGate" style="shape=mxgraph.cisco.security.ios_firewall;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="1550" y="1454" width="40" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="v_URH__aFRRFZnjGPoym-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="1290" width="360" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="v_URH__aFRRFZnjGPoym-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="1290" width="400" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="v_URH__aFRRFZnjGPoym-3" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="1195" y="1345" width="295" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="v_URH__aFRRFZnjGPoym-4" value="SQM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1221" y="1370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v_URH__aFRRFZnjGPoym-5" value="&lt;div&gt;KAFKA SQM&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="1372.5" width="180" height="187.5" as="geometry">
+            <mxRectangle x="130" y="150" width="110" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_URH__aFRRFZnjGPoym-6" value="topic: wink-out" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="v_URH__aFRRFZnjGPoym-5">
+          <mxGeometry x="30" y="37.5" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v_URH__aFRRFZnjGPoym-7" value="topic: r-pick-out" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="v_URH__aFRRFZnjGPoym-5">
+          <mxGeometry x="30" y="67.5" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v_URH__aFRRFZnjGPoym-8" value="topic: r-pick-hosts-out" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="1470" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v_URH__aFRRFZnjGPoym-9" value="topic: radacct-output" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="1500" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v_URH__aFRRFZnjGPoym-10" value="topic: metrics-sova-output" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="1530" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v_URH__aFRRFZnjGPoym-11" value="&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size:12.0pt;line-height:115%;&lt;br/&gt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-ansi-language:RU;mso-fareast-language:RU;mso-bidi-language:AR-SA&quot;&gt;Центр &lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;line-height:115%;&lt;br/&gt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-ansi-language:RU;mso-fareast-language:RU;mso-bidi-language:AR-SA&quot;&gt;мониторинга сети&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size:12.0pt;line-height:115%;&lt;br/&gt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-ansi-language:RU;mso-fareast-language:RU;mso-bidi-language:AR-SA&quot;&gt;ПАО Ростелеком&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="1664" y="1392.5" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="v_URH__aFRRFZnjGPoym-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v_URH__aFRRFZnjGPoym-11" target="v_URH__aFRRFZnjGPoym-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v_URH__aFRRFZnjGPoym-13" value="НОП" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="1300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v_URH__aFRRFZnjGPoym-14" value="КСПД РТК" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="1300" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v_URH__aFRRFZnjGPoym-15" value="UserGate" style="shape=mxgraph.cisco.security.ios_firewall;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="1464" width="40" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="v_URH__aFRRFZnjGPoym-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v_URH__aFRRFZnjGPoym-16" target="v_URH__aFRRFZnjGPoym-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v_URH__aFRRFZnjGPoym-25" value="TCP: 20010" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v_URH__aFRRFZnjGPoym-24">
+          <mxGeometry x="-0.0484" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_URH__aFRRFZnjGPoym-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1335" y="1847" width="225" height="153" as="geometry" />
+        </mxCell>
+        <mxCell id="v_URH__aFRRFZnjGPoym-19" value="CRM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1423" y="1950" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v_URH__aFRRFZnjGPoym-20" value="SQM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1056.5" y="1950" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v_URH__aFRRFZnjGPoym-22" value="kafka" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1058" y="1865" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v_URH__aFRRFZnjGPoym-23" value="topic&lt;br&gt;&quot;crm_requests&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1033.75" y="1907.5" width="108.5" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
