@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0" version="28.2.8">
   <diagram name="Страница — 1" id="ES0QzxzYQoj7FINaQqWn">
-    <mxGraphModel dx="883" dy="387" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="719" dy="363" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,13 +109,13 @@
         <mxCell id="CuR73UPyF55ekXB-EM0x-17" value="UserGate" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="418.58" y="635" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CuR73UPyF55ekXB-EM0x-18" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CuR73UPyF55ekXB-EM0x-4" target="CuR73UPyF55ekXB-EM0x-9">
+        <mxCell id="CuR73UPyF55ekXB-EM0x-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endFill=1;" edge="1" parent="1" source="CuR73UPyF55ekXB-EM0x-4" target="CuR73UPyF55ekXB-EM0x-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="484" y="638" as="sourcePoint" />
             <mxPoint x="534" y="588" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CuR73UPyF55ekXB-EM0x-19" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CuR73UPyF55ekXB-EM0x-5">
+        <mxCell id="CuR73UPyF55ekXB-EM0x-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endFill=1;" edge="1" parent="1" source="CuR73UPyF55ekXB-EM0x-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="749" as="sourcePoint" />
             <mxPoint x="384" y="677" as="targetPoint" />
@@ -124,7 +124,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CuR73UPyF55ekXB-EM0x-22" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CuR73UPyF55ekXB-EM0x-8">
+        <mxCell id="CuR73UPyF55ekXB-EM0x-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endFill=1;" edge="1" parent="1" source="CuR73UPyF55ekXB-EM0x-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="388" y="745" as="sourcePoint" />
             <mxPoint x="401" y="677" as="targetPoint" />
@@ -136,7 +136,7 @@
         <mxCell id="CuR73UPyF55ekXB-EM0x-23" value="&lt;div&gt;open vpn&lt;/div&gt;&lt;div&gt;172.30.30.0/26&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="323.58" y="763" width="140" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="CuR73UPyF55ekXB-EM0x-24" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="CuR73UPyF55ekXB-EM0x-23">
+        <mxCell id="CuR73UPyF55ekXB-EM0x-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=1;" edge="1" parent="1" source="CuR73UPyF55ekXB-EM0x-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="351" y="698" as="sourcePoint" />
             <mxPoint x="393" y="677" as="targetPoint" />
